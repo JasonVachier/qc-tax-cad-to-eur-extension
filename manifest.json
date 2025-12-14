@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Prix + Taxes Québec & conversion Euro",
+  "version": "1.1",
+  "description": "Sélectionne un prix en CAD, calcule le prix avec TPS+TVQ et la conversion en EUR.",
+  "permissions": [
+    "contextMenus",
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://open.er-api.com/*",
+    "https://api.exchangerate-api.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
