@@ -78,15 +78,8 @@ Recommended mainly for Chromium-based browsers.
 
 ---
 
-## 🚀 Publishing status
-- ✅ Compatible with **Chrome / Edge / Opera / Brave**
-- 🆓 Free to publish on **Firefox, Edge, Opera**
-- 💰 Chrome Web Store requires a **one-time $5 fee**
-
----
-
 ## 📜 License
-MIT License – free to use, modify, and distribute.
+MIT License – free to use, modify.
 
 ---
 
